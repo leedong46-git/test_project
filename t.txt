@@ -1,2 +1,6 @@
 좋은 아침!
+<<<<<<< HEAD
 ssss master branch에서 수정
+=======
+master branch에서 수정
+>>>>>>> 4172fe627fa08dc4f74c5c2c305f3e8634387272
